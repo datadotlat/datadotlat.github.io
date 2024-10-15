@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Abdul Aziz N"
 description              : &description "personal description"
 url                      : https://data.lat # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Abdul Aziz N"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Statistician at Badan Informasi Geospasial, Member of Ikatan Statistisi Indonesia"
   location         : "Bogor, Indonesia"
   employer         : "Badan Informasi Geospasial"
   uri              : # URL
