@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abdul Aziz N / Bringing data to life with maps"
+title                    : "Peta, medium bercerita data"
 title_separator          : "-"
 name                     : &name "Abdul Aziz N"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Abdul Aziz N"
   pronouns         : # example: "she/her"  
-  bio              : "Statistician at Badan Informasi Geospasial, Member of Ikatan Statistisi Indonesia"
+  bio              : "Statistisi Badan Informasi Geospasial, Anggota Ikatan Statistisi Indonesia"
   location         : "Bogor, Indonesia"
   employer         : "Badan Informasi Geospasial"
   uri              : # URL
