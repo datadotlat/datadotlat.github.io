@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data.lat, menggunakan Peta menjadi medium bercerita Data"
+title: "Data.lat : Peta, medium bercerita data"
 author_profile: true
 redirect_from: 
   - /about/
