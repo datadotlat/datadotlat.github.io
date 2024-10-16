@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Si in Statistics and Data Sciences, IPB University, Indonesia, 2022
+* M.Si in Statistics and Data Science, IPB University, Indonesia, 2022
 * S.Stat in Statistics, IPB University, Indonesia, 2011
 
 Work experience
